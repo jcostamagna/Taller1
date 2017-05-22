@@ -1,0 +1,3 @@
+/home/juan/Documentos/Taller 1/root/JackRabbit/Instalacion/ServerEditor/Editor_
+/home/juan/Documentos/Taller 1/root/JackRabbit/Instalacion/Cliente/Client
+/home/juan/Documentos/Taller 1/root/JackRabbit/Instalacion/ServerEditor/Server
